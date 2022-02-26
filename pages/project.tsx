@@ -2,7 +2,7 @@ import React from 'react'
 
 const project = () => {
   return (
-    <div>project</div>
+    <div>asdasd</div>
   )
 }
 
