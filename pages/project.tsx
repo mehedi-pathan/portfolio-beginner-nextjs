@@ -2,7 +2,7 @@ import React from 'react'
 
 const project = () => {
   return (
-    <div>asdasd</div>
+    <div>Project Page Under Construction</div>
   )
 }
 
